@@ -42,10 +42,14 @@ body {
 
 .title{
   text-align: center;
+  font-size: 70px;
 }
+
+
 
 .title2{
   text-align: center;
+  padding-top: 50px;
 }
 
 .title3{
@@ -75,6 +79,8 @@ body {
 
 .paragr4 {
   padding-top: 30px;
+  color: white;
+  font-weight: bold;
   
 }
 
