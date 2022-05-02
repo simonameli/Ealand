@@ -1,0 +1,100 @@
+body {
+  background: grey;
+}
+
+.logo { 
+  float: left;
+}
+
+.img-natura {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+.container{
+  width: 940px;
+}
+
+.nav {
+  background-color: grey;
+  list-style-type: none; 
+  padding: 0;
+  margin: 0;
+  padding-bottom: 20px;
+}
+
+.nav-link {
+  display: inline-block;
+  color: white;
+  padding-top: 50px;
+  
+}
+.wrap-action-acc {
+  text-align: center;
+}
+
+.footer-style{
+  text-align: center;
+  padding-bottom: 20px;
+}
+
+.title{
+  text-align: center;
+}
+
+.title2{
+  text-align: center;
+}
+
+.title3{
+  text-align: center;
+}
+
+.p {
+  width: 940px;
+  text-align: center;
+  line-height: 1.875em;
+  font-size: 15px;
+}
+
+.paragr1 {
+  padding-top: 30px;
+}
+
+.paragr2 {
+  padding-top: 30px;
+  
+}
+
+.paragr3 {
+  padding-top: 30px;
+  
+}
+
+.paragr4 {
+  padding-top: 30px;
+  
+}
+
+.paragr5 {
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+.paragr6 {
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+.textSite {
+  text-align: center;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+.lista {
+  list-style-type: circle;
+  
+  
+}
