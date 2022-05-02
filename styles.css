@@ -97,5 +97,13 @@ body {
 .lista {
   list-style-type: circle;
   
-  
+}
+
+.contatti {
+  text-align: center;
+  background-color: grey;
+  width: auto; 
+  margin-right: -25;
+  padding-top: 20px;
+  height: 210px;
 }
